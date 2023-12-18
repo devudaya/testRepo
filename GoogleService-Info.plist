@@ -31,6 +31,6 @@
 	<key>GOOGLE_APP_ID</key>
 	<string>1:193045943258:ios:1846cf58a66758e36c66e3</string>
 	<key>DATABASE_URL</key>
-	<string>https://messagecenter-85eb5-default-rtdb.firebaseio.commm</string>
+	<string>https://messagecenter-85eb5-default-rtdb.firebaseio.com</string>
 </dict>
 </plist>
